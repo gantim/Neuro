@@ -33,7 +33,7 @@ git clone https://github.com/gantim/Neuro.git
 ```
 - Запустите папку с проектом в PyCharm
 
-![ProjectAdd](guade/ProjectAdd.png)
+![ProjectAdd](https://github.com/gantim/Neuro/blob/main/guide/ProjectAdd.png)
 
 - Если у вас не установлен интерпретатор питон, то скачайте его на данном сайте(при установек поставьте галочку PATH)
 ```URL
@@ -42,7 +42,7 @@ https://www.python.org/downloads/
 - После установки Python, внутри PyCharm нажмите `Ctrl+Alt+S` и перейдите в `Project: .../Python interpreter`.
 Далее справа `Add interpreter - Add local interpreter` выберите `3.9` и Ok.
 
-![Add interpreter](guade/AddInterpreter.png)
+![Add interpreter](https://github.com/gantim/Neuro/blob/main/guide/AddInterpreter.png)
 
 ---
 
